@@ -12,8 +12,8 @@
 2. Run `make`
 
 ### Usage
-Typical usage to run tests with google test: './tests' 
-To try to apply GenMC to LLVM Intermediate Representation of a project: 'sh genmc_test.sh'
+Typical usage to run tests with google test: `./tests`
+To try to apply GenMC to LLVM Intermediate Representation of a project:`sh genmc_test.sh`
 
 ## Project description
 
