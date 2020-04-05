@@ -5,7 +5,7 @@
 ### Required packages
 	
 * Google Test can be installed by `sudo apt install libgtest-dev`
-* GenMC can be installed by instructions here - https://github.com/MPI-SWS/genmc
+* GenMC can be installed by instructions (here)[https://github.com/MPI-SWS/genmc]
 	
 ### How to compile
 1. Run `cmake CMakeLists.txt`
